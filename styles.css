@@ -40,7 +40,7 @@ body {
 
 .header nav ul li a {
   color: white;
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   text-decoration: none;
   transition: transform 0.3s ease;
 }
